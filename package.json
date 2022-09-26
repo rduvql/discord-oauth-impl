@@ -1,5 +1,5 @@
 {
-  "name": "oauth-test",
+  "name": "discord-oauth-impl",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
